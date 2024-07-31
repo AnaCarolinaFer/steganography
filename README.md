@@ -1,10 +1,4 @@
 # Esteganografia e SVD
-
-Grupo:  
-Andrew da Silva Faria  
-Paulo Michel Yamagishi Fajardo  
-Ana Carolina Ferreira de Figueiredo
-
 ## O que é Esteganografia?
 
 Esteganografia é a arte de esconder informações secretas dentro de mensagens não secretas. Isso pode parecer criptografia, mas não são exatamente a mesma coisa. Criptografia torna mensagens incompreensíveis, enquanto esteganografia esconde que a mensagem sequer existe. Para mostrar o quão importante isso é, imagine que a pessoa A queira enviar uma mensagem secreta para a pessoa B. Se for obviamente uma mensagem secreta, a pessoa C pode simplesmente cortar a comunicação entre os dois. Mas se a mensagem for inocente, como uma imagem, a pessoa C nem sequer percebe que há uma comunicação mais profunda ocorrendo. Muitas técnicas esteganográficas, por exemplo, escondem dados dentro de arquivos. Seu principal objetivo é que esses dados não sejam percebidos por terceiros; ou seja, a presença de mensagens escondidas dentro de arquivos é simplesmente desconhecida. Somente o receptor da mensagem tem conhecimento de sua existência, assim como da maneira como extraí-la.
